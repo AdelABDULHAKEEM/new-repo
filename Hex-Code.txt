@@ -1,0 +1,9 @@
+#004a99
+#1273eb
+#101010
+#ffffff
+#f7f7f7
+#d7d7d7
+#2cdbb5
+#aaaaaa
+rgba(0,0,0,.1)
